@@ -27,7 +27,7 @@ public class Util {
 
     public final String URL = "jdbc:mysql://localhost:3306/wednesday";
     public final String USERNAME = "root";
-    public final String PASSWORD = "admin";
+    public final String PASSWORD = "SECRET";
 
     public static Connection connection;
 

@@ -7,7 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 
-/machinet.conf/
 .mvn/wrapper/
 .idea/
 /target/
